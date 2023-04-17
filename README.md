@@ -57,11 +57,11 @@
 
 # Deployed Repository Link
 
-- Text Editor
+- N/A
 
 # Text Editor Repostory Link
 
--To build a text editor that runs in the browser.
+- https://github.com/Mandarinfish1/Text-Editor
 
 # Questions
 
